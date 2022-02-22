@@ -1,0 +1,4 @@
+name: TutorialPlugin
+version: 1.0.0
+main: com.gmail.artemis.the.gr8.tutorialplugin.TutorialPlugin
+api-version: 1.18
