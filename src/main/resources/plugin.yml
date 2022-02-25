@@ -1,4 +1,9 @@
 name: TutorialPlugin
 version: 1.0.0
-main: com.gmail.artemis.the.gr8.tutorialplugin.TutorialPlugin
+main: com.gmail.artemis.the.gr8.tutorialplugin.Main
 api-version: 1.18
+commands:
+  hello:
+    usage: /hello
+    description: hello world
+
